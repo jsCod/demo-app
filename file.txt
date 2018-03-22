@@ -1,1 +1,3 @@
-totot est vraiment tot.o Nous avons des modifications à faire
+totot est vraiment tot.o Nous avons des modifications à fair.
+
+J'ajoute une modif depuis la branche static pages
